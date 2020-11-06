@@ -5,5 +5,6 @@ It includes looking at various aspects of data:
   Features of the data
   Statical aspect are:
     1. value count of each class
-    2. mean, median, variance, standard mean deviation, mean absolute deviation
+    2. mean, median, variance, standard mean deviation, mean absolute deviation\
+		
 
